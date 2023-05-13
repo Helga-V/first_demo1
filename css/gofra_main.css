@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.production_position {
+	float: left; 
+	text-align: center; 
+}
+
+.production_photo .row_first {
+	margin-bottom: 20px;
+}
+
+.production_photo img {
+	margin-bottom: 15px;
+}
+
+.first_in_row {
+	margin-right: 30px;	
+}
+
+.second_in_row {
+	margin-right: 30px;
+}
+
+

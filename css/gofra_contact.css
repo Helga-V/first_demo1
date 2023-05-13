@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content p {
+	margin-bottom: 40px;
+}
+
+.content .line {
+	width: 210px;
+}
+
+.map {
+	margin-top: 20px;
+}

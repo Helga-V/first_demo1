@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.our_production .line {
+	width: 320px;
+}
+
+
+.our_production_description {
+	margin-bottom: 20px;
+	}
+
+.our_production_row_position {
+	margin-bottom: 20px;
+	padding-top: 20px;
+	border-top: 1px dashed #000;
+}
+
+.our_production_position {
+	float: left;
+	margin-right: 30px;
+	text-align: center;
+}
+
+.our_production_position img{ 
+	margin-bottom: 20px;
+}
+
+.production_description {
+	float: right;
+	width: 730px;
+}
